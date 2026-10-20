@@ -10,14 +10,14 @@
     "llm"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/zhouid9527/n8n-nodes-modelflare",
+  "homepage": "https://github.com/zhouid9527/n8n-nodes",
   "author": {
     "name": "zhouid9527",
     "email": "maccivanx@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhouid9527/n8n-nodes-modelflare.git"
+    "url": "git+https://github.com/zhouid9527/n8n-nodes.git"
   },
   "main": "index.js",
   "scripts": {
