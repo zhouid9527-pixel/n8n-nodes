@@ -3,7 +3,7 @@
 
 const https = require('https');
 
-const API_KEY = 'sk-38KseIfTEAJJy5wJj9muXHi10gLjYIvO337pjej6GrqyJJtw';
+const API_KEY = 'YOUR_API_KEY_HERE'; // Replace with your actual API key for testing
 const BASE_URL = 'modelflare.dev';
 
 console.log('🚀 ModelFlare API Test Suite (Verified)');
